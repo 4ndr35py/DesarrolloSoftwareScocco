@@ -16,7 +16,7 @@ while decision!=7:
     if decision==4:
         resta = valor1 - valor2
         print(f'La resta es: {resta}')
-    if decision=='5':
+    if decision==5:
         multiplicacion = valor1 * valor2
         print(f'La multiplicacion es: {multiplicacion}')
     if decision==6:
